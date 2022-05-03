@@ -1,0 +1,5 @@
+1. Get picture of Naruto for background
+2. Design the way the templete site will look
+3. Determine how many different sections the site will have and what they will be
+4. Start placing the pictures
+5. Make a Navigation bar to go through different sites. 
